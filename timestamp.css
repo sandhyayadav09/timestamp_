@@ -9,6 +9,7 @@
         overflow-x: hidden;
         overflow-y: hidden;
         background-image: url(worldmap_bg.jpg);
+        background-size: cover;
     }
 
     #name{
